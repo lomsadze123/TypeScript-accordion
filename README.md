@@ -25,3 +25,14 @@ If you are developing a production application, we recommend updating the config
 - Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
 - Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+
+# TypeScript-accordion
+
+I decided to try my old and then new projects with TypeScript. The Accordion is a basic implementation of an accordion component using React and TypeScript. It allows you to display a list of items, each with a title and corresponding content that can be toggled open or closed by clicking on the title.. It's time for TypeScript
+
+## Built With 
+- HTML5 (TSX)
+- Styled Components
+- React
+- TypeScript
+- useState Hook
